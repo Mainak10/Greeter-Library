@@ -20,7 +20,7 @@ This framework I have build for POC purpose to implement pure JS concepts like:
 `
  - In your script file now make use of the Greeter library:
 				 
- - Use Global identifier of the library as **$G**
+ - Use Global identifier of the library as **$G** or **Greetr**
  - Start typing using something like : `$G('Mainak','Chakrabortty').greeting()` It will give you output as       `Hello Mainak!`
 
 # What you can do?
